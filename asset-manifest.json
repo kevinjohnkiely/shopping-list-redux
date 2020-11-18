@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopping-list-redux/static/css/main.20488da1.chunk.css",
+    "main.js": "/shopping-list-redux/static/js/main.987cd036.chunk.js",
+    "main.js.map": "/shopping-list-redux/static/js/main.987cd036.chunk.js.map",
+    "runtime-main.js": "/shopping-list-redux/static/js/runtime-main.cb5e3713.js",
+    "runtime-main.js.map": "/shopping-list-redux/static/js/runtime-main.cb5e3713.js.map",
+    "static/js/2.9cf08f7e.chunk.js": "/shopping-list-redux/static/js/2.9cf08f7e.chunk.js",
+    "static/js/2.9cf08f7e.chunk.js.map": "/shopping-list-redux/static/js/2.9cf08f7e.chunk.js.map",
+    "index.html": "/shopping-list-redux/index.html",
+    "precache-manifest.a548dbf59e5fcbd02ef0b4c4b4f1af78.js": "/shopping-list-redux/precache-manifest.a548dbf59e5fcbd02ef0b4c4b4f1af78.js",
+    "service-worker.js": "/shopping-list-redux/service-worker.js",
+    "static/css/main.20488da1.chunk.css.map": "/shopping-list-redux/static/css/main.20488da1.chunk.css.map",
+    "static/js/2.9cf08f7e.chunk.js.LICENSE.txt": "/shopping-list-redux/static/js/2.9cf08f7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb5e3713.js",
+    "static/js/2.9cf08f7e.chunk.js",
+    "static/css/main.20488da1.chunk.css",
+    "static/js/main.987cd036.chunk.js"
+  ]
+}
